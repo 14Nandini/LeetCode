@@ -13,11 +13,13 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Database
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
