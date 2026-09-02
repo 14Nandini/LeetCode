@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
