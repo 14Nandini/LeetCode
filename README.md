@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
