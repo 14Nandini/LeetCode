@@ -27,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
@@ -45,4 +46,20 @@
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
