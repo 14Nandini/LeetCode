@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/14Nandini/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
