@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
