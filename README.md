@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
