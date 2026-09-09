@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/14Nandini/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
