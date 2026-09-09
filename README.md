@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/14Nandini/LeetCode/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/14Nandini/LeetCode/tree/master/0494-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/14Nandini/LeetCode/tree/master/0414-third-maximum-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Backtracking
 |  |
