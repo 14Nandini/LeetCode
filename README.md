@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/14Nandini/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/14Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/14Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/14Nandini/LeetCode/tree/master/0414-third-maximum-number) |
