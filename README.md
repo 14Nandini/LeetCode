@@ -58,6 +58,7 @@
 | [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/14Nandini/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
+| [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/14Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -194,4 +197,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
