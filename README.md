@@ -37,6 +37,7 @@
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/14Nandini/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 ## Database
 |  |
 | ------- |
