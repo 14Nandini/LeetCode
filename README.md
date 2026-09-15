@@ -55,6 +55,7 @@
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/14Nandini/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/14Nandini/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 ## Database
@@ -173,10 +174,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/14Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/14Nandini/LeetCode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
