@@ -1,29 +1,21 @@
 class Solution {
     public int romanToInt(String s) {
         int sum = 0;
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            int cval;
-            if(ch == 'I') cval = 1;
-            else if(ch == 'V') cval = 5;
-            else if(ch == 'X') cval = 10;
-            else if(ch == 'L') cval = 50;
-            else if(ch == 'C') cval = 100;
-            else if(ch == 'D') cval = 500;
-            else cval = 1000;
-
-            if(i + 1 < s.length()){
-                char nch = s.charAt(i+1);
-                if( (ch == 'I' && (nch == 'V' || nch == 'X') )|| 
-                    (ch == 'X' && (nch == 'L' || nch == 'C')) ||
-                    (ch == 'C' && (nch == 'D' || nch == 'M'))    
-                ){
-                    sum -= cval;
-                    continue;
-                }
-            }
-            sum += cval;
+        HashMap<Character, Integer> hm = new HashMap<>();
+        hm.put('I', 1);
+        hm.put('V', 5);
+        hm.put('X', 10);
+        hm.put('L', 50);
+        hm.put('C', 100);
+        hm.put('D', 500);
+        hm.put('M', 1000);
+        for(int i = 0; i < s.length() - 1; i++){
+            int curr = hm.get(s.charAt(i));
+            int next = hm.get(s.charAt(i+1));
+            if(curr >= next) sum += curr;
+            else sum -= curr;
         }
+        sum = sum + hm.get(s.charAt(s.length()-1));
         return sum;
     }
 }
