@@ -50,6 +50,7 @@
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/14Nandini/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
