@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/14Nandini/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/14Nandini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/14Nandini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/14Nandini/LeetCode/tree/master/0494-target-sum) |
 ## Knapsack Problem
