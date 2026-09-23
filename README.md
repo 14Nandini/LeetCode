@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/14Nandini/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/14Nandini/LeetCode/tree/master/0494-target-sum) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -104,6 +105,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/14Nandini/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -153,6 +155,7 @@
 | [0002-add-two-numbers](https://github.com/14Nandini/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/14Nandini/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
@@ -231,9 +234,11 @@
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
