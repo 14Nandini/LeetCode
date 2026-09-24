@@ -24,6 +24,7 @@
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/14Nandini/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,6 +47,7 @@
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
