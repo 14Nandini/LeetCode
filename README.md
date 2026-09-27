@@ -70,6 +70,7 @@
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Database
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/14Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Bubble Sort
 |  |
 | ------- |
