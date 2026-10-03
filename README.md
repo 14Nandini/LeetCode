@@ -23,6 +23,7 @@
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
+| [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -73,6 +74,7 @@
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
@@ -118,6 +120,7 @@
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
+| [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -129,6 +132,7 @@
 | [0414-third-maximum-number](https://github.com/14Nandini/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
+| [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Backtracking
