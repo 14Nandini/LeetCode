@@ -25,6 +25,7 @@
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/14Nandini/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/14Nandini/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/14Nandini/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
