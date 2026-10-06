@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
@@ -82,6 +83,7 @@
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -243,6 +245,7 @@
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -303,4 +306,5 @@
 | [0022-generate-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
