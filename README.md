@@ -25,6 +25,7 @@
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/14Nandini/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/14Nandini/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -144,6 +145,7 @@
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/14Nandini/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/14Nandini/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Backtracking
@@ -307,4 +309,8 @@
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/14Nandini/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
