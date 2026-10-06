@@ -238,6 +238,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/14Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/14Nandini/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -276,6 +277,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/14Nandini/LeetCode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
