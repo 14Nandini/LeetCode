@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/14Nandini/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/14Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/14Nandini/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14Nandini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/14Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/14Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14Nandini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
