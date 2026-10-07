@@ -44,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
@@ -84,6 +85,7 @@
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -133,6 +135,7 @@
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -203,6 +206,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
