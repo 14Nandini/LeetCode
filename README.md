@@ -48,6 +48,7 @@
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
@@ -92,6 +93,7 @@
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
@@ -259,6 +261,7 @@
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -320,6 +323,7 @@
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
