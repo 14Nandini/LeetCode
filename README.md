@@ -86,6 +86,7 @@
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/14Nandini/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/14Nandini/LeetCode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/14Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
