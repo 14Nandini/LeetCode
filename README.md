@@ -57,6 +57,7 @@
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/14Nandini/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -78,6 +79,7 @@
 | [0022-generate-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/14Nandini/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -123,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -288,6 +291,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
