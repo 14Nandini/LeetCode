@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/14Nandini/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/14Nandini/LeetCode/tree/master/0046-permutations) |
@@ -224,6 +225,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/14Nandini/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
@@ -315,6 +317,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/14Nandini/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/14Nandini/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
