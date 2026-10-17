@@ -102,6 +102,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1859-sorting-the-sentence](https://github.com/14Nandini/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/14Nandini/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
 ## Database
 |  |
@@ -222,6 +223,7 @@
 | [0763-partition-labels](https://github.com/14Nandini/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/14Nandini/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
 | ------- |
