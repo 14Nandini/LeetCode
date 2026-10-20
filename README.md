@@ -66,6 +66,7 @@
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -134,6 +135,7 @@
 | [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/14Nandini/LeetCode/tree/master/0137-single-number-ii) |
+| [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/14Nandini/LeetCode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/14Nandini/LeetCode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
