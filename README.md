@@ -69,6 +69,7 @@
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/14Nandini/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
@@ -368,4 +369,24 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/14Nandini/LeetCode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
