@@ -73,6 +73,7 @@
 | [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
+| [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -267,6 +268,7 @@
 | [0435-non-overlapping-intervals](https://github.com/14Nandini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/14Nandini/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/14Nandini/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -389,4 +393,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
