@@ -75,6 +75,7 @@
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/14Nandini/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
