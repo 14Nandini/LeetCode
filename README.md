@@ -30,6 +30,7 @@
 | [0705-design-hashset](https://github.com/14Nandini/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/14Nandini/LeetCode/tree/master/0706-design-hashmap) |
 | [1002-find-common-characters](https://github.com/14Nandini/LeetCode/tree/master/1002-find-common-characters) |
+| [1037-valid-boomerang](https://github.com/14Nandini/LeetCode/tree/master/1037-valid-boomerang) |
 | [1169-invalid-transactions](https://github.com/14Nandini/LeetCode/tree/master/1169-invalid-transactions) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/14Nandini/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -75,6 +76,7 @@
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/14Nandini/LeetCode/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/14Nandini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/14Nandini/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/14Nandini/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -398,4 +400,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/14Nandini/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
