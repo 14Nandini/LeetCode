@@ -73,6 +73,7 @@
 | [0258-add-digits](https://github.com/14Nandini/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/14Nandini/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/14Nandini/LeetCode/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/14Nandini/LeetCode/tree/master/1025-divisor-game) |
@@ -257,6 +258,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/14Nandini/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/14Nandini/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/14Nandini/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/14Nandini/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Trie
 |  |
