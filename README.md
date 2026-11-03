@@ -44,6 +44,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/14Nandini/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/14Nandini/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/14Nandini/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/14Nandini/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -83,6 +84,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/14Nandini/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/14Nandini/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/14Nandini/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
