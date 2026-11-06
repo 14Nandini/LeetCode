@@ -87,6 +87,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/14Nandini/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/14Nandini/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/14Nandini/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-alternating-digit-sum](https://github.com/14Nandini/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/14Nandini/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
