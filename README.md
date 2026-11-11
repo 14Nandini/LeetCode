@@ -64,6 +64,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/14Nandini/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/14Nandini/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/14Nandini/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/14Nandini/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/14Nandini/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/14Nandini/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/14Nandini/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/14Nandini/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/14Nandini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
