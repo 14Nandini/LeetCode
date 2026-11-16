@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/14Nandini/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/14Nandini/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/14Nandini/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/14Nandini/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14Nandini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/14Nandini/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/14Nandini/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -339,6 +341,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/14Nandini/LeetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
 ## Brute-Force Search
 |  |
