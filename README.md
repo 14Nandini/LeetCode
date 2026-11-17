@@ -162,6 +162,7 @@
 | [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/14Nandini/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/14Nandini/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/14Nandini/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/14Nandini/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -375,6 +376,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/14Nandini/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/14Nandini/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/14Nandini/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
