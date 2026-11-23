@@ -74,6 +74,7 @@
 | [0002-add-two-numbers](https://github.com/14Nandini/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/14Nandini/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/14Nandini/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/14Nandini/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/14Nandini/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/14Nandini/LeetCode/tree/master/0070-climbing-stairs) |
@@ -109,6 +110,7 @@
 | [0013-roman-to-integer](https://github.com/14Nandini/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/14Nandini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/14Nandini/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/14Nandini/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/14Nandini/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
@@ -358,6 +360,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/14Nandini/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/14Nandini/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/14Nandini/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
