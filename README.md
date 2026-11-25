@@ -82,6 +82,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/14Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/14Nandini/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/14Nandini/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/14Nandini/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/14Nandini/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/14Nandini/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/14Nandini/LeetCode/tree/master/0342-power-of-four) |
@@ -183,6 +184,7 @@
 | [0049-group-anagrams](https://github.com/14Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/14Nandini/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/14Nandini/LeetCode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/14Nandini/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/14Nandini/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/14Nandini/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/14Nandini/LeetCode/tree/master/0242-valid-anagram) |
@@ -270,6 +272,7 @@
 | [0011-container-with-most-water](https://github.com/14Nandini/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/14Nandini/LeetCode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/14Nandini/LeetCode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/14Nandini/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/14Nandini/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/14Nandini/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/14Nandini/LeetCode/tree/master/0455-assign-cookies) |
@@ -444,4 +447,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/14Nandini/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/14Nandini/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
