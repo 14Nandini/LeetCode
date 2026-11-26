@@ -99,6 +99,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/14Nandini/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/14Nandini/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/14Nandini/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [3360-stone-removal-game](https://github.com/14Nandini/LeetCode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/14Nandini/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/14Nandini/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/14Nandini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -371,6 +372,7 @@
 | [0415-add-strings](https://github.com/14Nandini/LeetCode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/14Nandini/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/14Nandini/LeetCode/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/14Nandini/LeetCode/tree/master/3360-stone-removal-game) |
 ## Bubble Sort
 |  |
 | ------- |
